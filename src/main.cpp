@@ -1,6 +1,5 @@
 #include "Arduino.h"
 #include "coefficients.h"
-#include "display.h"
 #include "tone_gen.h"
 #include "yboard.h"
 
